@@ -1,0 +1,523 @@
+title: 云端咖啡厅
+type: 都市/职场
+
+plot: 讲述了在CBD顶楼的云端咖啡厅里，五个职场人在加班深夜相遇的故事。这里有刚被裁员的程序员，有熬夜赶方案的广告人，有被客户骂哭的实习生，也有默默倾听的咖啡师。通过四个深夜片段，展现了都市职场人的压力、坚持与相互取暖。
+
+characters:
+  - name: 阿杰
+    age: 28
+    job: 咖啡师
+    description: 云端咖啡厅的夜间咖啡师，曾是程序员，厌倦了996后转行，最懂职场人的疲惫
+  - name: 陈晨
+    age: 26
+    job: 广告公司文案
+    description: 连续加班一周，黑眼圈很重，但还在坚持，梦想是写出能拿奖的广告
+  - name: 老韩
+    age: 35
+    job: 程序员
+    description: 今天刚被裁员，不敢告诉家人，在咖啡厅坐了一夜
+  - name: 小鹿
+    age: 22
+    job: 实习生
+    description: 刚被客户骂哭，躲在咖啡厅不敢回家，怕室友看到自己的狼狈
+  - name: 苏姐
+    age: 42
+    job: 创业公司老板
+    description: 公司快撑不下去了，在咖啡厅改BP，想最后一搏
+
+scenes:
+  - id: 1
+    time: 凌晨1点
+    setting: 云端咖啡厅
+    characters: [阿杰, 陈晨, 老韩]
+    description: 落地窗外是城市的夜景，灯火通明。咖啡厅里只有两桌客人：陈晨对着电脑疯狂打字，老韩坐在窗边发呆，面前的美式一口没动
+    dialogues:
+      - character: 阿杰
+        line: 擦着杯子，看向陈晨：今天又加班？
+      - character: 陈晨
+        line: 头也不抬：嗯，甲方要改方案。
+      - character: 阿杰
+        line: 第几版了？
+      - character: 陈晨
+        line: 苦笑：十七版。
+      - character: 阿杰
+        line: 要不要再来杯浓缩？
+      - character: 陈晨
+        line: 抬头：能续命吗？
+      - character: 阿杰
+        line: 笑：能续到三点。
+      - character: 陈晨
+        line: 那来一杯。
+      - character: 阿杰
+        line: 做咖啡时看向老韩：那位客人，美式放了一小时了，一动没动。
+      - character: 陈晨
+        line: 看了一眼：可能在想事情吧。
+      - character: 阿杰
+        line: 端咖啡给陈晨时，经过老韩身边：先生，咖啡凉了，要不要换一杯？
+      - character: 老韩
+        line: 回过神：啊？不用不用。
+      - character: 阿杰
+        line: 没关系，算我请的。
+      - character: 老韩
+        line: 愣了一下：谢谢。
+      - character: 阿杰
+        line: 重新端了一杯热美式过去，在他对面坐下：我看你坐了很久。
+      - character: 老韩
+        line: 苦笑：没地方去。
+      - character: 阿杰
+        line: 家呢？
+      - character: 老韩
+        line: 不敢回。
+      - character: 陈晨
+        line: 停下打字，竖起耳朵。
+      - character: 阿杰
+        line: 怎么了？
+      - character: 老韩
+        line: 沉默了一会儿：今天被裁了。干了八年，说裁就裁。
+      - character: 阿杰
+        line: 没说话，只是听着。
+      - character: 老韩
+        line: 我老婆不知道，孩子刚上小学，房贷还三十年。我不敢回去，不知道怎么开口。
+      - character: 阿杰
+        line: 我也是程序员出身。
+      - character: 老韩
+        line: 抬头看他：那你为什么转行？
+      - character: 阿杰
+        line: 笑：因为不想像你这样，三十岁以后每天都怕被裁。
+      - character: 老韩
+        line: 沉默。
+      - character: 阿杰
+        line: 但你知道吗，我辞职那天，我老板说了一句话。
+      - character: 老韩
+        line: 什么？
+      - character: 阿杰
+        line: 他说，你以为换个工作就不焦虑了？焦虑是成年人的标配。
+      - character: 老韩
+        line: 苦笑：他说得对。
+      - character: 陈晨
+        line: 忍不住插嘴：不好意思，我听到了。大哥，我也焦虑，我每天都怕被甲方骂，怕稿子过不了，怕被开除。
+      - character: 老韩
+        line: 你还年轻，有的是机会。
+      - character: 陈晨
+        line: 我26了，在广告圈算老人了。新来的实习生99年的，比我便宜，比我有活力。
+      - character: 老韩
+        line: 不知道说什么。
+      - character: 阿杰
+        line: 所以你们都在这儿熬夜？
+      - character: 陈晨
+        line: 因为回家更焦虑。至少在这儿，还有你们陪着。
+      - character: 老韩
+        line: 突然笑了：我第一次来这种咖啡厅，以前都是公司食堂。
+      - character: 陈晨
+        line: 大哥，你以前加班到几点？
+      - character: 老韩
+        line: 十一二点吧，习惯了。
+      - character: 陈晨
+        line: 那你这八年，有休息过吗？
+      - character: 老韩
+        line: 想了想：年假都没休完过。
+      - character: 阿杰
+        line: 值得吗？
+      - character: 老韩
+        line: 看着窗外：以前觉得值，因为能让家里过得好点。现在不知道了。
+      - character: 陈晨
+        line: 大哥，你接下来打算怎么办？
+      - character: 老韩
+        line: 不知道。可能明天开始投简历吧。
+      - character: 阿杰
+        line: 我有个朋友在招人，初创公司，虽然工资不如大厂，但氛围好。
+      - character: 老韩
+        line: 真的？
+      - character: 阿杰
+        line: 嗯，我把你微信推给他，你们聊聊。先别想那么多，喝完这杯咖啡，先回去睡觉。
+      - character: 老韩
+        line: 可是...
+      - character: 阿杰
+        line: 没有可是。你八年没好好休息，就当给自己放个假。
+      - character: 老韩
+        line: 沉默了很久：谢谢你。
+      - character: 阿杰
+        line: 别谢我，谢你自己。八年不是白干的，你有经验，有人脉，比那些年轻人强多了。
+      - character: 陈晨
+        line: 对啊大哥，我们文案有句话，叫“姜还是老的辣”。
+      - character: 老韩
+        line: 被逗笑：谢谢你们。
+      - character: 阿杰
+        line: 喝完咖啡，早点回去。你老婆孩子还在等你。
+      - character: 老韩
+        line: 端起咖啡，喝了一大口：好，我喝完就走。
+
+  - id: 2
+    time: 凌晨2点
+    setting: 云端咖啡厅
+    characters: [阿杰, 小鹿, 陈晨]
+    description: 小鹿推门进来，眼眶红红的，低着头走到角落坐下。陈晨还在改方案，阿杰在擦吧台
+    dialogues:
+      - character: 阿杰
+        line: 注意到小鹿，走过去：想喝点什么？
+      - character: 小鹿
+        line: 声音闷闷的：热巧克力，多糖。
+      - character: 阿杰
+        line: 好，稍等。
+      - character: 陈晨
+        line: 抬头看了一眼，小声对阿杰说：她好像哭了。
+      - character: 阿杰
+        line: 嗯，看出来了。
+      - character: 阿杰
+        line: 做好热巧克力，端过去，顺便放了一包纸巾在桌上：趁热喝，暖暖身子。
+      - character: 小鹿
+        line: 小声：谢谢。
+      - character: 阿杰
+        line: 转身要走。
+      - character: 小鹿
+        line: 突然说：能陪我聊会儿吗？
+      - character: 阿杰
+        line: 停下，在她对面坐下：好。
+      - character: 小鹿
+        line: 捧着杯子，眼泪又掉下来：我今天被客户骂了。
+      - character: 阿杰
+        line: 递纸巾：嗯。
+      - character: 小鹿
+        line: 他说我什么都不懂，说我做的方案是垃圾，说要换人。
+      - character: 阿杰
+        line: 你做什么的？
+      - character: 小鹿
+        line: 广告实习生，刚来两个月。
+      - character: 陈晨
+        line: 听到“广告”两个字，抬头：同行啊。
+      - character: 小鹿
+        line: 看向陈晨：你也是？
+      - character: 陈晨
+        line: 嗯，做了四年了。
+      - character: 小鹿
+        line: 那你有没有被客户骂过？
+      - character: 陈晨
+        line: 笑：每个月都被骂。
+      - character: 小鹿
+        line: 那你怎么熬过来的？
+      - character: 陈晨
+        line: 走过来，坐下：一开始也哭，后来发现哭没用，就忍着。再后来发现，客户骂你，是因为他还在乎，要是连骂都不骂，那才是真的完了。
+      - character: 小鹿
+        line: 真的吗？
+      - character: 陈晨
+        line: 真的。我第一个方案被客户骂了十几次，改了二十多版，最后过了。后来那个客户还请我吃饭，说就是因为严格，才做出好作品。
+      - character: 小鹿
+        line: 可是我做的真的很差吗？
+      - character: 陈晨
+        line: 你觉得自己差吗？
+      - character: 小鹿
+        line: 我不知道，我上课成绩挺好的，可是一到实战就懵。
+      - character: 陈晨
+        line: 因为你没经验。经验这个东西，只有被骂才能积累。
+      - character: 阿杰
+        line: 笑：这话说得真扎心。
+      - character: 陈晨
+        line: 但是真的。小鹿，你今天被骂了，明天就知道怎么改，后天就能做得更好。那些没被骂过的，才可怕。
+      - character: 小鹿
+        line: 那我明天还要去见那个客户吗？
+      - character: 陈晨
+        line: 去啊，为什么不去？你就当他是在帮你进步。
+      - character: 小鹿
+        line: 可是我怕又被他骂。
+      - character: 陈晨
+        line: 那就让他骂，骂完你就进步了。
+      - character: 小鹿
+        line: 沉默了一会儿，端起热巧克力喝了一大口：谢谢你，姐姐。
+      - character: 陈晨
+        line: 笑：不客气，妹妹。
+      - character: 小鹿
+        line: 姐姐，你在这行做了四年，有想过放弃吗？
+      - character: 陈晨
+        line: 每天想。但第二天还是来上班。
+      - character: 小鹿
+        line: 为什么？
+      - character: 陈晨
+        line: 因为除了这个，我也不会别的。而且，我喜欢写东西，喜欢看到自己的文案被发出去。
+      - character: 小鹿
+        line: 那你以后想做什么？
+      - character: 陈晨
+        line: 想开自己的工作室，想拿戛纳奖。
+      - character: 小鹿
+        line: 哇，好厉害。
+      - character: 陈晨
+        line: 你呢？
+      - character: 小鹿
+        line: 我...我就想做一个不被骂的广告人。
+      - character: 陈晨
+        line: 笑：这个目标很实际。
+      - character: 阿杰
+        line: 那我祝你早日实现。
+      - character: 小鹿
+        line: 谢谢你们。我喝完这杯就回家，明天去见客户。
+      - character: 陈晨
+        line: 加油。
+      - character: 小鹿
+        line: 姐姐，你也是，早点下班。
+      - character: 陈晨
+        line: 苦笑：我还得改方案。
+      - character: 小鹿
+        line: 那你加油。
+
+  - id: 3
+    time: 凌晨3点
+    setting: 云端咖啡厅
+    characters: [阿杰, 陈晨, 苏姐]
+    description: 苏姐推门进来，拖着行李箱，一脸疲惫。她找了一个角落坐下，打开电脑开始工作。陈晨已经趴在桌上睡着了
+    dialogues:
+      - character: 阿杰
+        line: 走过去：您好，喝点什么？
+      - character: 苏姐
+        line: 揉了揉眼睛：冰美式，双份浓缩。
+      - character: 阿杰
+        line: 这么晚还喝这么浓的？
+      - character: 苏姐
+        line: 苦笑：要改BP，明天见投资人。
+      - character: 阿杰
+        line: 创业的？
+      - character: 苏姐
+        line: 嗯，做了三年了。
+      - character: 阿杰
+        line: 端来咖啡：那你慢慢改，需要什么叫我。
+      - character: 苏姐
+        line: 谢谢。
+      - character: 阿杰
+        line: 回到吧台，看到陈晨睡着了，拿了一条毯子轻轻给她披上。
+      - character: 苏姐
+        line: 对着电脑，眉头紧锁，一遍遍删改。过了半小时，突然把电脑一合，趴在桌上。
+      - character: 阿杰
+        line: 走过去：怎么了？
+      - character: 苏姐
+        line: 闷闷地说：改不下去了。
+      - character: 阿杰
+        line: 坐下：遇到什么问题了？
+      - character: 苏姐
+        line: 抬头看他：你懂创业吗？
+      - character: 阿杰
+        line: 笑：我只懂煮咖啡。
+      - character: 苏姐
+        line: 被逗笑：那也挺好，至少不用像我这样，三更半夜还在改BP。
+      - character: 阿杰
+        line: 公司遇到困难了？
+      - character: 苏姐
+        line: 沉默了一会儿：快撑不下去了。账上只剩三个月工资，投资人越来越难找。
+      - character: 阿杰
+        line: 那你为什么还在坚持？
+      - character: 苏姐
+        line: 看着窗外：因为跟着我的十几个人，都靠我吃饭。
+      - character: 阿杰
+        line: 沉默。
+      - character: 苏姐
+        line: 他们有的刚买房，有的刚结婚，有的刚有孩子。我不能说倒就倒。
+      - character: 阿杰
+        line: 你不容易。
+      - character: 苏姐
+        line: 你也不容易，这么晚还在开店。
+      - character: 阿杰
+        line: 我习惯了。而且，我喜欢晚上。
+      - character: 苏姐
+        line: 为什么？
+      - character: 阿杰
+        line: 因为晚上来的人，都是真实的人。白天大家戴着面具，晚上才敢露出疲惫。
+      - character: 苏姐
+        line: 看看四周：所以他们都是真实的人？
+      - character: 阿杰
+        line: 嗯。那个女孩，做广告的，连续加班一周了。那个大哥，今天被裁了，不敢回家。
+      - character: 苏姐
+        line: 你呢？你是真实的吗？
+      - character: 阿杰
+        line: 笑：我是听故事的。
+      - character: 苏姐
+        line: 那我的故事怎么样？
+      - character: 阿杰
+        line: 你的故事还没写完，我怎么评价？
+      - character: 苏姐
+        line: 愣住，然后笑了：你说得对。
+      - character: 苏姐
+        line: 重新打开电脑：那我继续写。
+      - character: 阿杰
+        line: 要不要再来杯咖啡？
+      - character: 苏姐
+        line: 好，再来一杯。
+      - character: 阿杰
+        line: 等一下，我给你做杯特别的。
+      - character: 苏姐
+        line: 什么？
+      - character: 阿杰
+        line: 叫“天亮之前”。喝了这杯，就能撑到天亮。
+      - character: 苏姐
+        line: 笑：还有这种咖啡？
+      - character: 阿杰
+        line: 现调的。
+      - character: 阿杰
+        line: 做好端过来：尝尝。
+      - character: 苏姐
+        line: 喝了一口：好苦。
+      - character: 阿杰
+        line: 苦完之后会回甘。
+      - character: 苏姐
+        line: 细细品味：真的有点甜。
+      - character: 阿杰
+        line: 创业也一样，苦完之后会有甜的。
+      - character: 苏姐
+        line: 看着他：谢谢你。
+      - character: 阿杰
+        line: 不用谢。喝完这杯，继续改你的BP，天快亮了。
+      - character: 苏姐
+        line: 好。
+
+  - id: 4
+    time: 凌晨5点
+    setting: 云端咖啡厅
+    characters: [阿杰, 陈晨, 老韩, 小鹿, 苏姐]
+    description: 天边开始泛白，城市渐渐苏醒。五个人都还在咖啡厅里，陈晨醒了，老韩回来了，小鹿换了一身衣服，苏姐改完了BP
+    dialogues:
+      - character: 阿杰
+        line: 看看窗外：天快亮了。
+      - character: 陈晨
+        line: 伸懒腰：我居然睡了两小时。
+      - character: 阿杰
+        line: 毯子盖得舒服吗？
+      - character: 陈晨
+        line: 愣了一下：你给我盖的？
+      - character: 阿杰
+        line: 嗯，怕你着凉。
+      - character: 陈晨
+        line: 有点不好意思：谢谢。
+      - character: 老韩
+        line: 推门进来，精神好了很多：我又来了。
+      - character: 阿杰
+        line: 怎么回来了？
+      - character: 老韩
+        line: 回去想了一下，还是睡不着，干脆过来等天亮。
+      - character: 阿杰
+        line: 坐吧，给你做杯热牛奶。
+      - character: 老韩
+        line: 好。
+      - character: 小鹿
+        line: 从洗手间出来，换了身衣服，化了淡妆：大家早。
+      - character: 陈晨
+        line: 早，你换衣服了？
+      - character: 小鹿
+        line: 嗯，包里备着的。一会儿直接去公司。
+      - character: 陈晨
+        line: 去见那个客户？
+      - character: 小鹿
+        line: 对，我准备好了。
+      - character: 苏姐
+        line: 合上电脑：我改完了。
+      - character: 阿杰
+        line: 怎么样？
+      - character: 苏姐
+        line: 不知道，但这是我最好的版本了。
+      - character: 阿杰
+        line: 那就够了。
+      - character: 苏姐
+        line: 看看大家：你们都是常客？
+      - character: 陈晨
+        line: 第一次来。
+      - character: 老韩
+        line: 第一次。
+      - character: 小鹿
+        line: 我也是第一次。
+      - character: 苏姐
+        line: 笑：那我们是第一次一起等天亮。
+      - character: 阿杰
+        line: 这杯我请。
+      - character: 众人
+        line: 为什么？
+      - character: 阿杰
+        line: 因为你们都撑到了天亮。
+      - character: 陈晨
+        line: 笑：这个理由好。
+      - character: 老韩
+        line: 端着热牛奶：阿杰，你说的那个工作，能再跟我聊聊吗？
+      - character: 阿杰
+        line: 好，我把他微信推给你，你们约时间聊聊。
+      - character: 老韩
+        line: 谢谢你。
+      - character: 小鹿
+        line: 姐姐，你那个二十多版改过的方案，后来客户满意吗？
+      - character: 陈晨
+        line: 满意啊，后来还介绍了新客户给我。
+      - character: 小鹿
+        line: 那我今天也要加油。
+      - character: 苏姐
+        line: 小姑娘，做什么的？
+      - character: 小鹿
+        line: 广告实习生。
+      - character: 苏姐
+        line: 我公司也需要广告，回头可以聊聊。
+      - character: 小鹿
+        line: 真的吗？
+      - character: 苏姐
+        line: 真的，但我得先搞定投资人才行。
+      - character: 小鹿
+        line: 那我等你！
+      - character: 苏姐
+        line: 笑：好。
+      - character: 陈晨
+        line: 天越来越亮了，城市的轮廓清晰起来。
+      - character: 阿杰
+        line: 你们看。
+      - character: 众人
+        line: 看向窗外，朝阳正在升起，金色的光洒在城市上。
+      - character: 小鹿
+        line: 好漂亮。
+      - character: 老韩
+        line: 来这座城市十年，第一次看日出。
+      - character: 陈晨
+        line: 我也是。
+      - character: 苏姐
+        line: 创业三年，第一次在咖啡厅看日出。
+      - character: 阿杰
+        line: 我每天都在看。
+      - character: 陈晨
+        line: 腻了吗？
+      - character: 阿杰
+        line: 不腻。因为每天看日出的人都不一样。
+      - character: 苏姐
+        line: 站起来，拖着行李箱：我得走了，回去睡两小时，下午见投资人。
+      - character: 小鹿
+        line: 苏姐加油！
+      - character: 老韩
+        line: 加油。
+      - character: 陈晨
+        line: 加油。
+      - character: 阿杰
+        line: 加油，记得回来说结果。
+      - character: 苏姐
+        line: 笑：好。
+      - character: 小鹿
+        line: 我也走了，去见客户。
+      - character: 陈晨
+        line: 去吧，记住我说的。
+      - character: 小鹿
+        line: 嗯！我不怕被骂！
+      - character: 老韩
+        line: 我也该走了，回去跟老婆坦白。
+      - character: 阿杰
+        line: 需要勇气吗？
+      - character: 老韩
+        line: 笑：喝完你的热牛奶，就有了。
+      - character: 阿杰
+        line: 那快喝。
+      - character: 老韩
+        line: 喝完放下杯子：谢谢，阿杰。
+      - character: 阿杰
+        line: 不用谢，记得来找我喝咖啡。
+      - character: 陈晨
+        line: 收拾电脑：我也走了，回去睡觉，晚上继续改方案。
+      - character: 阿杰
+        line: 还来吗？
+      - character: 陈晨
+        line: 来啊，你这儿比我家舒服。
+      - character: 阿杰
+        line: 笑：随时欢迎。
+      - character: 众人
+        line: 陆续离开，咖啡厅里只剩下阿杰一个人。
+      - character: 阿杰
+        line: 收拾杯子，擦吧台，看着窗外的城市。
+      - character: 阿杰
+        line: 轻声说：又是新的一天。
+      - character: 阿杰
+        line: 推开门，阳光洒进来，新的一天开始了。

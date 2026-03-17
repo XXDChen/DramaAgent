@@ -1,0 +1,386 @@
+title: 北境哨所
+type: 军旅/热血
+
+plot: 讲述了驻守在祖国最北端哨所的五个军人，在零下四十度的极寒环境中，用青春和热血守护国门的故事。通过四个日常片段，展现了军人之间的战友情、对家人的思念，以及那份“身后是万家灯火”的坚守。
+
+characters:
+  - name: 老郑
+    age: 35
+    rank: 上尉，哨所所长
+    description: 在哨所待了十二年，性格沉稳如山，对每个兵都像对自己弟弟，最大的遗憾是女儿出生时没能陪在身边
+  - name: 小杨
+    age: 19
+    rank: 列兵
+    description: 刚入伍一年，大学生士兵，话多爱笑，是哨所的开心果，喜欢用手机拍北方的星空
+  - name: 老周
+    age: 42
+    rank: 四级军士长
+    description: 炊事班班长，在哨所待了二十年，做得一手好面食，是大家的“周叔”
+  - name: 小李
+    age: 24
+    rank: 中士
+    description: 狙击手，沉默寡言，枪法极准，有个谈了五年的异地恋女友
+  - name: 大刘
+    age: 28
+    rank: 上士
+    description: 司务长，负责后勤，每次下山采购都要冒着风雪开一天车
+
+scenes:
+  - id: 1
+    time: 凌晨5点
+    setting: 北境哨所 宿舍
+    characters: [老郑, 小杨, 老周]
+    description: 窗外风雪呼啸，室内炉火烧得正旺。小杨缩在被窝里偷偷看手机，老郑推门进来查岗
+    dialogues:
+      - character: 老郑
+        line: 轻轻推开门，看到小杨手机的光：小杨，几点了还不睡？
+      - character: 小杨
+        line: 吓了一跳，赶紧把手机塞枕头下：所长，我我我这就睡！
+      - character: 老郑
+        line: 走过来，坐下：看什么呢？
+      - character: 小杨
+        line: 小声：就...看我妈发的消息。她问我冷不冷，吃没吃饱。
+      - character: 老郑
+        line: 沉默了一下：家里人都担心。
+      - character: 小杨
+        line: 所长，你刚来的时候，想过家吗？
+      - character: 老郑
+        line: 笑：想啊。我刚来那年，你还没出生呢。那时候没手机，一封信走一个月。
+      - character: 小杨
+        line: 那你怎么熬过来的？
+      - character: 老郑
+        line: 看着窗外的风雪：后来就懂了，咱们在这儿守着，家里人就睡得安稳。
+      - character: 小杨
+        line: 所长，咱们哨所最冷的时候多少度？
+      - character: 老郑
+        line: 零下五十二度。那年生锈的铁门一推就碎了。
+      - character: 小杨
+        line: 哇...那咱们怎么站岗？
+      - character: 老郑
+        line: 两个小时换一班，不能多待。那时候老周还在炊事班熬姜汤，每个回来的兵灌一碗。
+      - character: 小杨
+        line: 老周在哨所多久了？
+      - character: 老郑
+        line: 二十年了。他儿子出生他不在，他爹走他也不在。
+      - character: 小杨
+        line: 沉默了一会儿：值吗？
+      - character: 老郑
+        line: 看着他的眼睛：你站岗的时候，看到对面山下的灯火了吗？
+      - character: 小杨
+        line: 嗯，看到了，亮晶晶的。
+      - character: 老郑
+        line: 那是咱们守着的。你说值不值？
+      - character: 小杨
+        line: 所长，我懂了。
+      - character: 老郑
+        line: 拍拍他被子：睡吧，天亮还要训练。
+      - character: 小杨
+        line: 所长，我能再给我妈回一条消息吗？
+      - character: 老郑
+        line: 笑：回吧，告诉她，你在这儿很好。
+      - character: 小杨
+        line: 掏出手机打字，打完给老郑看：所长，你看这样行吗？
+      - character: 老郑
+        line: 念出来：“妈，我不冷，吃得饱，班长对我很好。这边星星特别亮，回头拍给你看。”
+      - character: 老郑
+        line: 嘴角上扬：行，发吧。
+      - character: 小杨
+        line: 发了消息，突然问：所长，你女儿多大了？
+      - character: 老郑
+        line: 愣住：六岁。
+      - character: 小杨
+        line: 她见过你几次？
+      - character: 老郑
+        line: 沉默了很久：视频里见过。真人，就一次，她满月的时候。
+      - character: 小杨
+        line: 不知道说什么。
+      - character: 老郑
+        line: 站起身：等你待久了就懂了。行了，睡吧。
+      - character: 小杨
+        line: 嗯，所长晚安。
+      - character: 老郑
+        line: 走到门口，回头：小杨，明天晚饭让老周给你做你爱吃的红烧肉。
+      - character: 小杨
+        line: 笑：谢谢所长！
+
+  - id: 2
+    time: 中午
+    setting: 哨所食堂
+    characters: [老周, 小杨, 小李]
+    description: 食堂里热气腾腾，老周端着一大盆面条出来。小杨和小李坐在桌边，小李低头看手机
+    dialogues:
+      - character: 老周
+        line: 放下盆：来来来，今天做的手擀面，趁热吃！
+      - character: 小杨
+        line: 凑过去闻：周叔，你这手艺绝了，比我家楼下饭店都香。
+      - character: 老周
+        line: 笑：二十年就琢磨这点事儿，能不好吃吗？
+      - character: 小杨
+        line: 看看小李：李哥，你咋不吃？又看嫂子照片呢？
+      - character: 小李
+        line: 收起手机，脸微微红：吃你的。
+      - character: 小杨
+        line: 凑过去：我看看，嫂子长啥样？哇，真好看！
+      - character: 小李
+        line: 夺回手机：别闹。
+      - character: 老周
+        line: 笑呵呵地坐下：小李，你和对象谈多久了？
+      - character: 小李
+        line: 五年了。
+      - character: 小杨
+        line: 五年？！那你见过她几次？
+      - character: 小李
+        line: 沉默：三年没见了。
+      - character: 小杨
+        line: 啊？那她不等你？
+      - character: 小李
+        line: 她说等。
+      - character: 老周
+        line: 拍拍他肩膀：好姑娘。
+      - character: 小李
+        line: 周叔，你当年是怎么熬过来的？
+      - character: 老周
+        line: 想了想：我没你幸运，我媳妇等了我八年，最后还是离了。
+      - character: 小杨
+        line: 震惊：周叔...
+      - character: 老周
+        line: 笑：没事，都过去了。她等不了也正常，谁愿意一个人过八年？
+      - character: 小李
+        line: 那我...
+      - character: 老周
+        line: 你不一样，现在有手机，能视频。我那会儿只能写信，一封信走半个月，回信再来半个月，一个月就说几句话。
+      - character: 小李
+        line: 低头：我还是怕。
+      - character: 老周
+        line: 怕什么？
+      - character: 小李
+        line: 怕她等不了。
+      - character: 小杨
+        line: 李哥，嫂子等了你三年，肯定能等的。
+      - character: 老周
+        line: 是啊，你得信她。就像咱们守在这儿，信身后的人能睡安稳一样。
+      - character: 小李
+        line: 周叔，你后悔过吗？
+      - character: 老周
+        line: 愣住：后悔什么？
+      - character: 小李
+        line: 后悔来这儿。
+      - character: 老周
+        line: 看看窗外白茫茫的山：不后悔。我守了二十年，这二十年的冬天，都有人因为我睡得暖和。值了。
+      - character: 小李
+        line: 沉默地吃着面。
+      - character: 老周
+        line: 快吃，一会儿凉了。下午还要训练。
+      - character: 小李
+        line: 周叔，明年我休假，回去见她。
+      - character: 老周
+        line: 笑：好，到时候我帮你准备礼物。
+      - character: 小杨
+        line: 我也帮！我给她挑口红，我懂！
+      - character: 小李
+        line: 瞪他：你懂什么懂。
+      - character: 小杨
+        line: 我抖音上看的！
+
+  - id: 3
+    time: 下午4点
+    setting: 哨所瞭望塔
+    characters: [小杨, 老郑]
+    description: 瞭望塔上，小杨和老郑并排站着，望远镜扫视着边境线。风很大，两人的脸都冻得通红
+    dialogues:
+      - character: 小杨
+        line: 哈着气：所长，咱们每天站在这儿看，能看到啥？
+      - character: 老郑
+        line: 能看到边境线，能看到对面。
+      - character: 小杨
+        line: 对面有啥？
+      - character: 老郑
+        line: 也是山，也是雪。但那边不是咱们的地儿。
+      - character: 小杨
+        line: 所长，你第一次站岗的时候紧张吗？
+      - character: 老郑
+        line: 笑：紧张，手都在抖。
+      - character: 小杨
+        line: 为啥？
+      - character: 老郑
+        line: 因为我身后是整个国家。
+      - character: 小杨
+        line: 沉默了。
+      - character: 老郑
+        line: 后来就不紧张了。因为你知道，你不是一个人。
+      - character: 小杨
+        line: 咱们哨所十二个人，确实不是一个人。
+      - character: 老郑
+        line: 不只是这十二个。是整个边防，整个军队，整个国家。
+      - character: 小杨
+        line: 所长，咱们这儿最远的地方是哪儿？
+      - character: 老郑
+        line: 往南，一直往南，能到南海。
+      - character: 小杨
+        line: 哇，那么远。
+      - character: 老郑
+        line: 嗯，咱们守的是北大门。南边有人守南大门。
+      - character: 小杨
+        line: 他们那儿热吗？
+      - character: 老郑
+        line: 热，三十多度。
+      - character: 小杨
+        line: 那我们这儿零下四十度，他们那儿三十多度，差七十多度！
+      - character: 老郑
+        line: 笑：对，但咱们守的是一个国。
+      - character: 小杨
+        line: 掏出手机：所长，我能拍张照吗？
+      - character: 老郑
+        line: 拍吧，别拍对面。
+      - character: 小杨
+        line: 我拍咱们这边。你看这山，这雪，多好看。
+      - character: 老郑
+        line: 看了十几年，还是觉得好看。
+      - character: 小杨
+        line: 拍完低头看手机：所长，我妈回我了。
+      - character: 老郑
+        line: 她说什么？
+      - character: 小杨
+        line: 眼眶有点红：她说，儿子，妈为你骄傲。
+      - character: 老郑
+        line: 拍拍他肩膀：你值得她骄傲。
+      - character: 小杨
+        line: 所长，你女儿要是知道你在守国门，也会骄傲的。
+      - character: 老郑
+        line: 看着远方，轻声说：等她长大了，也许能懂。
+      - character: 小杨
+        line: 一定会的。
+      - character: 老郑
+        line: 站直身子：好了，换岗时间到了。下去吧，老周炖了羊肉。
+      - character: 小杨
+        line: 好嘞！下楼梯时回头：所长，明天还站这班岗吗？
+      - character: 老郑
+        line: 笑：明天后天大后天，只要我在这儿，就站这班岗。
+
+  - id: 4
+    time: 除夕夜
+    setting: 哨所食堂
+    characters: [老郑, 小杨, 老周, 小李, 大刘]
+    description: 食堂里挂着小彩灯，老周做了一桌子菜。五个人围坐在一起，窗外风雪依旧，屋里暖意融融
+    dialogues:
+      - character: 老周
+        line: 端上最后一盘饺子：来来来，白菜猪肉馅的，趁热！
+      - character: 小杨
+        line: 周叔，你做了多少菜啊？这得有二十个吧？
+      - character: 老周
+        line: 二十一个。过年嘛，得丰盛点。
+      - character: 大刘
+        line: 我刚从山下回来，路上遇到暴风雪，差点回不来。
+      - character: 老郑
+        line: 人没事就好。
+      - character: 大刘
+        line: 没事，我开车二十年了，这点雪算什么。对了，我给大家带了东西。
+      - character: 小杨
+        line: 什么什么？
+      - character: 大刘
+        line: 从包里掏出：小杨，你要的口红；小李，你要的信封，说是要给对象写信？现在谁还写信？
+      - character: 小李
+        line: 接过，轻声说：她说想要一封手写的信。
+      - character: 大刘
+        line: 周叔，你要的酱油和醋；所长，你要的...
+      - character: 老郑
+        line: 我要什么？
+      - character: 大刘
+        line: 掏出一个快递盒：不知道，山下门卫让我捎上来的，说是从南方寄来的。
+      - character: 老郑
+        line: 愣了一下，接过快递，看到寄件人名字，手微微颤抖。
+      - character: 小杨
+        line: 所长，谁寄的？
+      - character: 老郑
+        line: 轻声：我媳妇。
+      - character: 所有人
+        line: 都安静下来。
+      - character: 老郑
+        line: 打开盒子，里面是一条红围巾和一封信。展开信，上面是稚嫩的笔迹：“爸爸，新年快乐。这是我自己织的，虽然不太好看。妈妈说你在很远的地方守国门，我长大了也要像你一样。”
+      - character: 老郑
+        line: 眼眶红了。
+      - character: 小杨
+        line: 所长...
+      - character: 老郑
+        line: 擦了擦眼睛，把围巾围上：好看吗？
+      - character: 小杨
+        line: 拼命点头：好看！
+      - character: 老周
+        line: 举起酒杯：来，咱们敬一杯。
+      - character: 五人
+        line: 一起举杯。
+      - character: 老周
+        line: 敬咱们的国，敬咱们的家，敬咱们自己。
+      - character: 众人
+        line: 干杯！
+      - character: 小杨
+        line: 喝完酒，突然问：所长，你说咱们在这儿过年，山下的人知道吗？
+      - character: 老郑
+        line: 他们不知道。但他们知道，有人替他们守着。
+      - character: 小杨
+        line: 我想给我妈打个视频。
+      - character: 老郑
+        line: 打吧，让她看看你，让她放心。
+      - character: 小杨
+        line: 拨通视频，屏幕那边是热闹的客厅：妈！新年快乐！
+      - character: 小杨妈妈
+        line: 隔着屏幕：儿子！你瘦了，是不是没吃饱？
+      - character: 小杨
+        line: 笑：没有没有，周叔做了好多菜，你看！
+      - character: 小杨妈妈
+        line: 那就好，那就好。儿子，妈想你了。
+      - character: 小杨
+        line: 我也想你们。妈，你看我们所长，戴着他女儿织的围巾。
+      - character: 老郑
+        line: 对着镜头挥手：阿姨新年好！
+      - character: 小杨妈妈
+        line: 好好好，你们都好。儿子，妈不打扰你们了，你们吃好喝好。
+      - character: 小杨
+        line: 嗯！妈新年快乐！
+      - character: 挂断视频，小杨低头擦了擦眼睛。
+      - character: 老周
+        line: 拍拍他：傻孩子，哭啥，过年呢。
+      - character: 小杨
+        line: 抬头笑：没哭，高兴的。
+      - character: 小李
+        line: 拿出信纸：我写信。
+      - character: 小杨
+        line: 李哥，你写啥？
+      - character: 小李
+        line: 写我在这儿很好，写我想她，写明年回去娶她。
+      - character: 老周
+        line: 好！到时候我给你做喜糖。
+      - character: 大刘
+        line: 我给你开车送亲！
+      - character: 小杨
+        line: 我给你拍照！
+      - character: 老郑
+        line: 我给你批假。
+      - character: 小李
+        line: 看着大家，笑了：谢谢。
+      - character: 老郑
+        line: 站起来：来，咱们再去瞭望塔看一眼。
+      - character: 小杨
+        line: 现在？
+      - character: 老郑
+        line: 嗯，去看看咱们守的这片土地。
+      - character: 五人
+        line: 穿上大衣，走向瞭望塔。
+      - character: 小杨
+        line: 站在塔上，看着山下星星点点的灯火：所长，你看，山下有人在放烟花。
+      - character: 老郑
+        line: 嗯，那是咱们守的万家灯火。
+      - character: 小杨
+        line: 掏出手机拍照：我要记住这一刻。
+      - character: 老周
+        line: 二十年来，每年除夕都这样看一次，还是看不够。
+      - character: 老郑
+        line: 因为值得看。
+      - character: 小李
+        line: 沉默地站着，眼里有光。
+      - character: 大刘
+        line: 远处传来隐隐的烟花声，风雪中格外温暖。
+      - character: 老郑
+        line: 轻声说：同志们，新年快乐。
+      - character: 众人
+        line: 齐声：新年快乐！

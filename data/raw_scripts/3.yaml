@@ -1,0 +1,314 @@
+title: 老街照相馆
+type: 家庭/温情
+
+plot: 讲述了在老街经营了四十年的照相馆即将关闭前，老摄影师老陈与不同顾客之间的故事。通过四个片段，展现了一张张照片背后的人生百态，以及时代变迁中那些被定格的温情瞬间。
+
+characters:
+  - name: 老陈
+    age: 68
+    description: 老街照相馆老板，拍了四十年照片，性格温和寡言，用相机记录了一整代人的成长
+  - name: 小周
+    age: 25
+    description: 老街照相馆最后的学徒，刚毕业的大学生，热爱传统摄影，对胶片有特殊感情
+  - name: 林奶奶
+    age: 72
+    description: 老街老住户，老陈的老朋友，每年都要来拍一张照片
+
+scenes:
+  - id: 1
+    time: 下午
+    setting: 老街照相馆
+    characters: [老陈, 小周]
+    description: 阳光透过老旧的玻璃门洒进照相馆，墙上挂满黑白照片。小周正在擦拭老相机，老陈坐在藤椅上翻看相册
+    dialogues:
+      - character: 小周
+        line: 师傅，这些照片都是你拍的？
+      - character: 老陈
+        line: 嗯，四十年了。
+      - character: 小周
+        line: 走过来看：这是同一个人？
+      - character: 老陈
+        line: 翻到第一张：这是林老师，当年老街小学的语文老师。这是她1985年调来的时候拍的。
+      - character: 小周
+        line: 下一页是婚纱照？
+      - character: 老陈
+        line: 笑：1987年，她结婚那天。新郎是老街供销社的。
+      - character: 小周
+        line: 再往后翻：这是...孩子？
+      - character: 老陈
+        line: 1990年，她儿子出生，满月照。
+      - character: 小周
+        line: 继续翻：一家三口，这是过年吧？
+      - character: 老陈
+        line: 1995年春节。她老公那年下岗，但过年还是要拍张全家福。
+      - character: 小周
+        line: 这张是她一个人？
+      - character: 老陈
+        line: 声音低沉：2003年，她老公生病走了。那年她来拍了张单人照，说“以后就是一个人了”。
+      - character: 小周
+        line: 沉默片刻：这张是她和儿子？
+      - character: 老陈
+        line: 2008年，儿子考上大学，临走前来拍的。
+      - character: 小周
+        line: 这张是她和儿媳？
+      - character: 老陈
+        line: 2012年，儿子结婚。儿媳妇第一次来老街。
+      - character: 小周
+        line: 这张有孙子了？
+      - character: 老陈
+        line: 笑纹加深：2015年，孙子出生。她抱着孩子，笑得眼睛都看不见了。
+      - character: 小周
+        line: 翻到最后一张：这是去年？就她一个人？
+      - character: 老陈
+        line: 嗯，孙子回城里上学了，儿子儿媳忙着工作，她又一个人了。
+      - character: 小周
+        line: 她每年都来？
+      - character: 老陈
+        line: 每年。她说，照片是时间的脚印，走过了，总要留下点什么。
+      - character: 小周
+        line: 师傅，照相馆真的要关了吗？
+      - character: 老陈
+        line: 看看四周：房子要拆了，老街要改造了。拍完这个月，就关了。
+      - character: 小周
+        line: 这些照片呢？
+      - character: 老陈
+        line: 轻抚相册：让它们的主人带回去。本来就是他们的故事。
+
+  - id: 2
+    time: 傍晚
+    setting: 老街照相馆
+    characters: [老陈, 林奶奶]
+    description: 林奶奶推门进来，手里提着一袋橘子。老陈起身迎接，小周在一旁整理相册
+    dialogues:
+      - character: 林奶奶
+        line: 老陈，还开着呢？我以为你已经关门了。
+      - character: 老陈
+        line: 月底才关，还能拍半个月。坐，我给你倒茶。
+      - character: 林奶奶
+        line: 坐下，看到桌上的相册：哟，这是我的？
+      - character: 老陈
+        line: 嗯，整理出来了，回头你带回去。
+      - character: 林奶奶
+        line: 一页页翻看，眼眶渐渐湿润：这么多年了...
+      - character: 小周
+        line: 林奶奶，您每年都来拍一张，坚持了四十年？
+      - character: 林奶奶
+        line: 笑：可不是嘛。老陈的相机，比我家老头子陪我的时间都长。
+      - character: 老陈
+        line: 递茶：今年还拍吗？
+      - character: 林奶奶
+        line: 拍，当然拍。最后一年的，不能落下。
+      - character: 老陈
+        line: 好，那咱们去布景那边。
+      - character: 林奶奶
+        line: 起身，看看四周：这背景墙也用了四十年了吧？
+      - character: 老陈
+        line: 嗯，八几年换过一次，后来就一直没动。
+      - character: 林奶奶
+        line: 站在背景前：老陈，你说这照片，真的能把人留住吗？
+      - character: 老陈
+        line: 调整相机：留不住人，但能留住那时候的样子。
+      - character: 林奶奶
+        line: 那时候的样子...我年轻时候什么样，我都快忘了。
+      - character: 小周
+        line: 林奶奶，您看这张，1985年的您，多年轻啊。
+      - character: 林奶奶
+        line: 接过照片，端详许久：那时候我刚来老街，什么都不懂。一转眼，四十年了。
+      - character: 老陈
+        line: 准备好没有？要拍了。
+      - character: 林奶奶
+        line: 站直身子，整理衣领：好了。
+      - character: 老陈
+        line: 透过镜头看她：笑一笑，像每年一样。
+      - character: 林奶奶
+        line: 笑了，眼角皱纹堆积，但笑容温暖：老陈，明年拍不了了吧？
+      - character: 老陈
+        line: 按下快门，咔嚓一声：拍不了照片，但可以喝茶聊天。我还在老街住。
+      - character: 林奶奶
+        line: 那就好。照片是死的，人是活的。
+      - character: 老陈
+        line: 冲洗照片还需要时间，你下周来取？
+      - character: 林奶奶
+        line: 好。老陈，谢谢你啊。
+      - character: 老陈
+        line: 谢什么？
+      - character: 林奶奶
+        line: 谢谢你帮我记住了这四十年。
+      - character: 老陈
+        line: 看着她的背影消失在门外，轻声说：也谢谢你，让我拍了四十年。
+
+  - id: 3
+    time: 上午
+    setting: 老街照相馆
+    characters: [老陈, 小周]
+    description: 一对年轻情侣推门进来，女孩穿着白裙子，男孩拿着相机。他们在店里四处打量，对老式相机充满好奇
+    dialogues:
+      - character: 女孩
+        line: 哇，这就是传说中的老街照相馆？真的还开着！
+      - character: 男孩
+        line: 我在网上看到的，说这家店拍了一辈子照片，马上要关了。
+      - character: 老陈
+        line: 从里间走出来：想拍照？
+      - character: 女孩
+        line: 爷爷，我们能拍一张吗？就一张。
+      - character: 老陈
+        line: 笑：来照相馆，当然是拍照的。坐那边吧。
+      - character: 女孩
+        line: 拉着男孩坐在老式布景前：这个背景好复古啊。
+      - character: 男孩
+        line: 举起自己的相机：爷爷，我能用这个拍吗？
+      - character: 老陈
+        line: 摇摇头：到我这儿，就得用我的相机。
+      - character: 男孩
+        line: 看看老陈的老式胶片机：这是...胶片机？
+      - character: 老陈
+        line: 嗯，拍了四十年了。
+      - character: 女孩
+        line: 胶片拍出来是什么样的？
+      - character: 老陈
+        line: 调整焦距：真实的，不修不剪。你们现在的手机，拍出来都太假了。
+      - character: 男孩
+        line: 笑：爷爷还挺传统。
+      - character: 老陈
+        line: 不是传统，是习惯。人这一辈子，真真假假的事太多，照片就别作假了。
+      - character: 女孩
+        line: 点点头：说得对。爷爷，我们就要最真实的。
+      - character: 老陈
+        line: 透过镜头看他们：靠近一点，笑自然一点，别像拍证件照似的。
+      - character: 男孩
+        line: 搂住女孩的肩膀，两人相视一笑。
+      - character: 老陈
+        line: 咔嚓，快门声响起。好。
+      - character: 女孩
+        line: 跳起来：拍完了？这么快？
+      - character: 老陈
+        line: 笑：拍照不需要快，但需要准。你们下周来取片。
+      - character: 男孩
+        line: 下周？不能用手机发给我们吗？
+      - character: 小周
+        line: 从旁边解释：师傅用的胶片，要冲洗，要晾干，得等几天。
+      - character: 女孩
+        line: 好有仪式感啊。那下周我们再来。
+      - character: 男孩
+        line: 付钱时问：爷爷，你拍了这么多年，最喜欢拍什么？
+      - character: 老陈
+        line: 想了想：拍人。东西不会变，人会。今天来的人，明天就不一样了。
+      - character: 女孩
+        line: 那我们下周来，您看我们变没变？
+      - character: 老陈
+        line: 笑：一周能变什么？十年后再来，我看看你们变没变。
+      - character: 女孩
+        line: 十年后？您还在吗？
+      - character: 老陈
+        line: 指指小周：他替我拍。我教了他一年了。
+      - character: 男孩
+        line: 对小周说：那你得好好学，我们十年后来找你拍。
+      - character: 小周
+        line: 愣了一下，随即郑重点头：好，我等着。
+
+  - id: 4
+    time: 黄昏
+    setting: 老街照相馆
+    characters: [老陈, 小周]
+    description: 照相馆最后一天营业，门口贴着一张纸“今日最后一天”。老陈在整理最后一批照片，小周在打扫卫生
+    dialogues:
+      - character: 小周
+        line: 师傅，最后一张照片，你留给谁？
+      - character: 老陈
+        line: 想了想：留给你。
+      - character: 小周
+        line: 我？
+      - character: 老陈
+        line: 嗯，过来坐好。
+      - character: 小周
+        line: 有些紧张地坐在布景前：师傅，我还没准备好。
+      - character: 老陈
+        line: 笑：拍照不需要准备，人在就行。
+      - character: 小周
+        line: 师傅，这一年谢谢你。
+      - character: 老陈
+        line: 透过镜头看他：谢我什么？
+      - character: 小周
+        line: 谢谢你教我看相机，更谢谢你教我看人。
+      - character: 老陈
+        line: 看到什么了？
+      - character: 小周
+        line: 每个人都是一本书，照片就是封面。
+      - character: 老陈
+        line: 满意地点头：学得不错。来，笑一个。
+      - character: 小周
+        line: 咧嘴笑，但有点僵硬。
+      - character: 老陈
+        line: 放下相机：不是这样笑。想想你来这儿的第一天，看到那些老照片的时候，什么感觉？
+      - character: 小周
+        line: 回忆状：震撼。原来照片可以这么有力量。
+      - character: 老陈
+        line: 那就带着那种感觉笑。
+      - character: 小周
+        line: 这次笑得自然了，眼里有光。
+      - character: 老陈
+        line: 咔嚓。好了。
+      - character: 小周
+        line: 跑过来看：师傅，我看看。
+      - character: 老陈
+        line: 取出胶片：等冲洗出来才能看。不急。
+      - character: 小周
+        line: 师傅，你说照片能留住什么？
+      - character: 老陈
+        line: 坐在藤椅上：留不住人，也留不住时间。但能留住那一刻的感觉。
+      - character: 小周
+        line: 什么感觉？
+      - character: 老陈
+        line: 你看林老师那些照片，四十年，每一张都不一样。但有一件事是一样的。
+      - character: 小周
+        line: 什么？
+      - character: 老陈
+        line: 她在认真地活着。照片记录的，就是那份认真。
+      - character: 小周
+        line: 若有所思：师傅，以后我去哪拍照？
+      - character: 老陈
+        line: 哪都能拍。相机在你手里，照相馆就还在。
+      - character: 小周
+        line: 沉默片刻：师傅，我给你拍一张吧。
+      - character: 老陈
+        line: 愣了一下：我？
+      - character: 小周
+        line: 嗯，最后一张照片，应该是我拍您。
+      - character: 老陈
+        line: 笑：好。
+      - character: 小周
+        line: 拿起老陈的相机，笨拙地调整焦距：师傅，您坐那儿。
+      - character: 老陈
+        line: 坐在藤椅上，身后的墙上挂满照片。
+      - character: 小周
+        line: 透过镜头看他：师傅，您拍了四十年，值吗？
+      - character: 老陈
+        line: 笑：值。值不值得，不看时间长短，看记住了多少。
+      - character: 小周
+        line: 记住了多少？
+      - character: 老陈
+        line: 我记住了老街所有人的样子，从年轻到老。这还不值？
+      - character: 小周
+        line: 眼眶微红：师傅，您笑一个。
+      - character: 老陈
+        line: 笑了，笑容里有一辈子的故事。
+      - character: 小周
+        line: 按下快门，咔嚓。师傅，这张照片，我给它起个名字。
+      - character: 老陈
+        line: 叫什么？
+      - character: 小周
+        line: 叫“最后一个照相馆”。
+      - character: 老陈
+        line: 看看四周：照相馆会关，但照片不会。有人记得，它就还在。
+      - character: 小周
+        line: 师傅，我会记得的。
+      - character: 老陈
+        line: 拍拍他肩膀：我知道。
+      - character: 小周
+        line: 师傅，天黑了，我送您回家。
+      - character: 老陈
+        point: 起身，最后看了一眼照相馆：好，走吧。明天开始，这里就是别人的故事了。
+      - character: 小周
+        line: 搀扶着他走出门：师傅，我们的故事还没完呢。
+      - character: 老陈
+        line: 笑：对，还没完。

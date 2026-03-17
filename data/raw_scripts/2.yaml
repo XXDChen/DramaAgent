@@ -1,0 +1,217 @@
+title: 深夜便利店
+type: 都市/情感
+
+plot: 讲述了在24小时便利店打工的大学生林晓，与经常深夜来店里的神秘顾客陈默之间逐渐产生交集的故事。通过四次深夜相遇，展现了两个孤独灵魂在城市深夜中的相互取暖与治愈。
+
+characters:
+  - name: 林晓
+    age: 20
+    grade: 大三学生
+    description: 便利店夜班店员，性格内向但观察力敏锐，来自小城市，为了减轻家里负担而打工，习惯在深夜写日记
+  - name: 陈默
+    age: 28
+    description: 深夜便利店常客，自由插画师，性格孤僻但内心温柔，有失眠症，经常在深夜出来游荡
+  - name: 老板娘
+    age: 45
+    description: 便利店老板，性格爽朗，对林晓很照顾，知道每个深夜顾客的习惯
+
+scenes:
+  - id: 1
+    time: 凌晨2点
+    setting: 便利店
+    characters: [林晓, 陈默]
+    description: 深夜的便利店空无一人，林晓趴在收银台后写日记。门铃响起，陈默穿着黑色风衣走进来，径直走向泡面货架
+    dialogues:
+      - character: 林晓
+        line: 抬头：欢迎光临。
+      - character: 陈默
+        line: 点点头，没说话，拿起一桶泡面，又拿了一瓶矿泉水
+      - character: 林晓
+        line: 扫码时看了一眼他：还是老样子，红烧牛肉面？
+      - character: 陈默
+        line: 愣了一下，有些惊讶：你认识我？
+      - character: 林晓
+        line: 微微一笑：你每周二、周四凌晨都会来，已经三周了。而且每次都只买泡面和矿泉水。
+      - character: 陈默
+        line: 沉默片刻，低声：观察力挺强。
+      - character: 林晓
+        line: 夜班太无聊了，就会记住一些常客。要不要热水？店里有。
+      - character: 陈默
+        line: 犹豫了一下：谢谢。
+      - character: 林晓
+        line: 起身去接热水：你每次都买泡面，家里没厨房吗？
+      - character: 陈默
+        line: 接过泡面：有，但凌晨不想开火，怕吵到邻居。
+      - character: 林晓
+        line: 你倒是挺为别人着想。
+      - character: 陈默
+        line: 低头看着泡面：你呢？为什么上夜班？
+      - character: 林晓
+        line: 回收银台坐下：白天上课，晚上打工。夜班工资高一点。
+      - character: 陈默
+        line: 不困吗？
+      - character: 林晓
+        line: 习惯了。你呢？为什么总在凌晨出现？
+      - character: 陈默
+        line: 沉默一会儿：失眠。
+      - character: 林晓
+        line: 失眠很难受吧。
+      - character: 陈默
+        line: 轻轻点头：我先走了。
+      - character: 林晓
+        line: 慢走，下周二见。
+      - character: 陈默
+        line: 走到门口回头：你怎么知道下周二我还来？
+      - character: 林晓
+        line: 笑：因为你每次都来啊。
+
+  - id: 2
+    time: 凌晨2点
+    setting: 便利店
+    characters: [林晓, 陈默, 老板娘]
+    description: 林晓正在整理货架，陈默推门进来。这次他没直接去泡面区，而是在杂志架前停留，翻看插画相关的书籍
+    dialogues:
+      - character: 林晓
+        line: 今天不买泡面？
+      - character: 陈默
+        line: 放下杂志：今天吃了晚饭。你还在写日记？
+      - character: 林晓
+        line: 嗯，每天都会写一点。你刚刚看的是插画书？
+      - character: 陈默
+        line: 点点头：我是画画的。
+      - character: 林晓
+        line: 插画师？好酷的职业。
+      - character: 陈默
+        line: 苦笑：听起来酷，实际就是接单、改稿、接单、改稿。
+      - character: 林晓
+        line: 那也比我们这种枯燥的夜班有意思。
+      - character: 陈默
+        line: 你写日记，也是创作。
+      - character: 林晓
+        line: 就随便写写，以后回头看，知道自己二十岁的时候在想什么。
+      - character: 陈默
+        line: 能借我看看吗？
+      - character: 林晓
+        line: 犹豫了一下，递过去：别笑我。
+      - character: 陈默
+        line: 翻了几页，认真地说：你写东西很有画面感。
+      - character: 林晓
+        line: 真的？
+      - character: 陈默
+        line: 嗯。比如这句“凌晨的便利店像一艘漂在城市海洋里的孤舟”，我脑子里已经有画面了。
+      - character: 林晓
+        line: 有点不好意思：谢谢。
+      - character: 老板娘
+        line: 从后门进来：哟，小陈又来啦？
+      - character: 陈默
+        line: 老板娘好。
+      - character: 老板娘
+        line: 林晓，小陈可是我们店的老顾客了，三年前他刚搬来时就老来。那时候他比现在还安静，一个月不说一句话。
+      - character: 林晓
+        line: 惊讶：三年前？
+      - character: 陈默
+        line: 低头：习惯了这里。
+      - character: 老板娘
+        line: 现在能跟你说上话，不容易。行，我进去盘点，你们聊。
+
+  - id: 3
+    time: 凌晨3点
+    setting: 便利店门口的长椅
+    characters: [林晓, 陈默]
+    description: 陈默买了两罐热咖啡，坐在便利店门口的长椅上。林晓交接完班，走出来看到他
+    dialogues:
+      - character: 林晓
+        line: 你怎么还在？
+      - character: 陈默
+        line: 递给她一罐咖啡：等你下班。
+      - character: 林晓
+        line: 接过咖啡，坐下：等我？
+      - character: 陈默
+        line: 今天是我妈的忌日。
+      - character: 林晓
+        line: 沉默片刻：对不起。
+      - character: 陈默
+        line: 没事。我就是不想一个人待着。失眠就是从那年开始的。
+      - character: 林晓
+        line: 你一个人住？
+      - character: 陈默
+        line: 嗯，老家在南方，毕业后留在这边。她走的时候，我没能回去。
+      - character: 林晓
+        line: 她不会怪你的。
+      - character: 陈默
+        line: 你怎么知道？
+      - character: 林晓
+        line: 因为我爸妈也在老家，我也没能陪在他们身边。但他们总说，你过得好，就是对他们最好的安慰。
+      - character: 陈默
+        line: 你倒是想得开。
+      - character: 林晓
+        line: 不想开怎么办？生活还要继续。你看这便利店，24小时亮着灯，不管发生什么，它都在。
+      - character: 陈默
+        line: 所以你写“城市海洋里的孤舟”？
+      - character: 林晓
+        line: 嗯，每个深夜来店里的人，都是在这片海洋里漂泊的船。你也是。
+      - character: 陈默
+        line: 沉默很久：谢谢你，林晓。
+      - character: 林晓
+        line: 谢我什么？
+      - character: 陈默
+        line: 谢谢你记住了我的泡面口味，谢谢你跟我说下周二见。
+      - character: 林晓
+        line: 笑：那你要继续来，不然我记住的口味就没意义了。
+      - character: 陈默
+        line: 会的。
+
+  - id: 4
+    time: 凌晨1点
+    setting: 便利店
+    characters: [林晓, 陈默]
+    description: 陈默拿着一本装订好的小册子走进店里。林晓正在整理货架，看到他眼睛一亮
+    dialogues:
+      - character: 林晓
+        line: 今天这么早？
+      - character: 陈默
+        line: 有点紧张地递过小册子：这个给你。
+      - character: 林晓
+        line: 接过，翻开：这是...
+      - character: 陈默
+        line: 我把你日记里的那些画面，画下来了。
+      - character: 林晓
+        line: 一页页翻看，眼眶渐渐红了：凌晨的便利店、城市海洋里的孤舟、深夜买泡面的人...
+      - character: 陈默
+        line: 你说你写东西是为了回头看，我想帮你把这些画面留下来。
+      - character: 林晓
+        line: 抬头看他，声音有些哽咽：陈默...
+      - character: 陈默
+        line: 这些画，就当是你请我喝那么多热水的回礼。
+      - character: 林晓
+        line: 笑中带泪：这也太贵重了。
+      - character: 陈默
+        line: 不贵重，就一些纸和颜料。但你让我知道，失眠的夜里，也可以有温暖。
+      - character: 林晓
+        line: 合上画册，认真地看着他：陈默，谢谢你。
+      - character: 陈默
+        line: 该说谢谢的是我。这一年，每周二周四，有人等我。
+      - character: 林晓
+        line: 那以后呢？还来吗？
+      - character: 陈默
+        line: 笑：来。不过下次，我想请你喝真的咖啡，不是便利店的。
+      - character: 林晓
+        line: 挑眉：这是约我？
+      - character: 陈默
+        line: 有点不好意思：算是吧。
+      - character: 林晓
+        line: 笑：那我考虑一下。
+      - character: 陈默
+        line: 考虑多久？
+      - character: 林晓
+        line: 看看手里的画册：看在这些画的份上，现在就可以答应。
+      - character: 陈默
+        line: 笑了，这是林晓第一次见他笑得这么轻松：好。
+      - character: 林晓
+        line: 外面天快亮了。你知道吗，凌晨的便利店里，我最喜欢这个时刻。
+      - character: 陈默
+        line: 为什么？
+      - character: 林晓
+        line: 因为黑暗快结束了，光明就要来了。
+      - character: 陈默
+        line: 看着窗外渐亮的天：嗯，光明就要来了。

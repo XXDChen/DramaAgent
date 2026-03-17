@@ -1,0 +1,219 @@
+title: 青春不语
+type: 校园/青春
+plot: 讲述了高二学生李明在学习和篮球之间的挣扎，以及同桌王雪的帮助下逐渐找回自信，同时两人之间建立深厚友谊的故事。通过四个场景展现了李明从迷茫到坚定的成长过程，突出了青春中相互支持的重要性。
+
+characters:
+  - name: 李明
+    age: 17
+    grade: 高二
+    description: 性格倔强，成绩中等，喜欢篮球，单亲家庭，和父亲关系紧张
+  - name: 王雪
+    age: 17
+    grade: 高二
+    description: 学习委员，温柔但内心坚强，父母都是医生，经常一个人在家
+  - name: 张老师
+    age: 35
+    description: 班主任，严厉但关心学生，曾经也是体育特长生
+
+scenes:
+  - id: 1
+    time: 下午放学后
+    setting: 教室
+    characters: [李明, 王雪]
+    description: 黄昏的阳光透过窗户洒进教室，李明坐在靠窗的座位上，望着窗外操场上打球的身影发呆。王雪收拾好书包准备离开，看到李明一动不动的背影，犹豫了一下
+    dialogues:
+      - character: 王雪
+        line: 轻声：李明，你今天没去打球？
+      - character: 李明
+        line: 头也不回，声音低沉：不想去。
+      - character: 王雪
+        line: 走近几步：还在想成绩的事？一次没考好而已，下次努力就行了。
+      - character: 李明
+        line: 突然转头，眼圈有点红：你不懂！我爸说这次再退步就不让我打球了。他说打球浪费时间，不如去打工。
+      - character: 王雪
+        line: 惊讶：打工？你才高二啊。
+      - character: 李明
+        line: 苦笑：反正他也觉得我考不上大学。我妈走得早，他就指着我早点赚钱养家。
+      - character: 王雪
+        line: 沉默片刻，走回李明身边，把书包放在旁边的座位上坐下：那张老师不是说要帮你补课吗？他今天还跟我提起你。
+      - character: 李明
+        line: 补课有什么用？我就是学不会。那些公式单词，看一百遍也记不住。
+      - character: 王雪
+        line: 我以前数学也很差，初一的时候考过全班倒数。
+      - character: 李明
+        line: 转头看她，不相信：你？学霸？
+      - character: 王雪
+        line: 笑：真的。那时候我爸妈天天在医院，我一个人在家，没人管，成绩一落千丈。后来我每天多做一套题，不会的就记下来问老师，慢慢就上来了。
+      - character: 李明
+        line: 那不一样，你是女生，女生本来就细心。
+      - character: 王雪
+        line: 你这是性别歧视啊。正色道：那你现在放弃，不是更证明自己不行？你打球的时候，输了一分就放弃吗？
+      - character: 李明
+        line: 愣住，看着王雪：你为什么这么关心我？
+      - character: 王雪
+        line: 脸微红，低头整理书包带：因为...我们是同桌啊。而且...你上次帮我搬书，还没谢谢你。
+      - character: 李明
+        line: 明天，明天开始你帮我补课？
+      - character: 王雪
+        line: 眼睛亮起来：真的？那说定了！
+
+  - id: 2
+    time: 一周后
+    setting: 教室
+    characters: [李明, 王雪, 张老师]
+    description: 午休时间，教室里只有李明和王雪。李明对着一道数学题抓耳挠腮，王雪在旁边耐心讲解
+    dialogues:
+      - character: 王雪
+        line: 你看，这个函数图像是这样画的，对称轴在这里...
+      - character: 李明
+        line: 突然拍桌子：我懂了！原来是这么回事！
+      - character: 王雪
+        line: 吓了一跳，随即笑：小声点，别人在午睡。
+      - character: 李明
+        line: 压低声音，兴奋地：这个我终于懂了！原来数学也没那么难嘛。
+      - character: 张老师
+        line: 从门口走进来：哟，你们两个还在学习呢？
+      - character: 李明
+        line: 有点不好意思：张老师。
+      - character: 张老师
+        line: 走到旁边：李明，这次小测验我看了，有进步，继续保持。
+      - character: 李明
+        line: 真的？
+      - character: 张老师
+        line: 我什么时候骗过你？对了，你爸昨天给我打电话了。
+      - character: 李明
+        line: 脸色一沉：他又说我了？
+      - character: 张老师
+        line: 他说只要你月考能及格，就同意你继续打球。还说要谢谢你同桌帮忙。
+      - character: 李明
+        line: 惊讶：我爸说的？
+      - character: 张老师
+        line: 你爸其实挺关心你的，就是不太会表达。跟我当年一样。
+      - character: 王雪
+        line: 张老师也打过球？
+      - character: 张老师
+        line: 笑：我年轻时可是校队的，后来受伤才改行当老师。所以我知道，打球和学习不冲突，关键是要自律。李明，你能坚持一周，很不错。
+      - character: 李明
+        line: 老师，我会继续努力的。
+      - character: 张老师
+        line: 好，我相信你。看了看表：行了，不打扰你们了，记得下午第一节课别迟到。
+      - character: 王雪
+        line: 你爸好像也没那么可怕嘛。
+      - character: 李明
+        line: 也许吧。转向王雪：继续讲题？还有三道题。
+      - character: 王雪
+        line: 笑：好，这道题还有一种解法，我一起教给你。
+
+  - id: 3
+    time: 一周后
+    setting: 篮球场
+    characters: [李明, 王雪]
+    description: 周六下午，篮球场上人声鼎沸。李明在球场上打球，动作比之前更自信了。场边的长椅上，王雪拿着作业本和两杯奶茶走过来坐下
+    dialogues:
+      - character: 李明
+        line: 看到王雪，跑过来：你来啦！
+      - character: 王雪
+        line: 给，你的作业本，昨天又忘在教室了。
+      - character: 李明
+        line: 接过：谢谢啊。看到她手边的奶茶：这个是？
+      - character: 王雪
+        line: 你不是说要请我喝奶茶吗？我看你没来，就自己买了。不过你那份我也买了。
+      - character: 李明
+        line: 不好意思地挠头：我以为你开玩笑的。多少钱，我转你。
+      - character: 王雪
+        line: 不用啦，就当庆祝你月考及格。
+      - character: 李明
+        line: 惊喜：成绩出来了？多少分？
+      - character: 王雪
+        line: 从书包里拿出一张试卷：数学78分！比上次又高了！
+      - character: 李明
+        line: 接过试卷，不敢相信：78分？我？数学？
+      - character: 王雪
+        line: 还有英语65，语文71，总分进步了快100分！
+      - character: 李明
+        line: 开心地跳起来：太好了！可以继续打球了！谢谢你，王雪！
+      - character: 王雪
+        line: 是你自己努力的成果。这一个月你每天多做一套题，我都看在眼里。
+      - character: 李明
+        line: 其实...不止是因为打球。如果没有你帮我，我可能真的放弃了。
+      - character: 王雪
+        line: 低头笑：我只是做了应该做的。
+      - character: 李明
+        line: 那个...下周我请你喝奶茶，这次一定我请。顿了顿：还有，以后有什么需要帮忙的，尽管说。除了学习，其他的我可能还行。
+      - character: 王雪
+        line: 比如？
+      - character: 李明
+        line: 比如...看看手里的篮球：教你打篮球？
+      - character: 王雪
+        line: 笑出声：算了吧，我体育从来不及格。
+      - character: 李明
+        line: 我可以慢慢教啊，就像你教我数学一样。
+      - character: 王雪
+        line: 好，那就这么说定了。不过今天先把作业写完。
+      - character: 李明
+        line: 保证完成任务！突然想起什么：对了，我奶茶呢？
+      - character: 王雪
+        line: 递过去：早就给你准备好了。
+      - character: 王雪
+        line: 李明，你觉得青春是什么？
+      - character: 李明
+        line: 想了想：青春啊...大概是有人在旁边一直说"你行"，然后你就真的行了吧。
+      - character: 王雪
+        line: 笑：这个答案可以打80分。
+      - character: 李明
+        line: 为什么不是100？
+      - character: 王雪
+        line: 因为还差一个。
+      - character: 李明
+        line: 差什么？
+      - character: 王雪
+        line: 轻声：差你自己相信。
+
+  - id: 4
+    time: 期末考前一周
+    setting: 学校天台
+    characters: [李明, 王雪]
+    description: 傍晚，天台上风有点大。李明站在那里，手里拿着一张纸。王雪推开门走过来
+    dialogues:
+      - character: 王雪
+        line: 找我什么事？这么神秘。
+      - character: 李明
+        line: 转身，有些紧张：我...我有话想跟你说。
+      - character: 王雪
+        line: 看着他：怎么了？成绩又下降了？
+      - character: 李明
+        line: 不是。递过手里的纸：这是我写的期末目标。
+      - character: 王雪
+        line: 接过看：每科都要上80分？这个目标有点高啊。
+      - character: 李明
+        line: 我知道，但是我想试试。如果...如果我真的考到了，你能不能...
+      - character: 王雪
+        line: 能不能什么？
+      - character: 李明
+        line: 深吸一口气：能不能以后都做我的学习搭档？一直到高考？
+      - character: 王雪
+        line: 愣住，随即笑了：就这个啊？我还以为你要说什么呢。
+      - character: 李明
+        line: 那...你同意了？
+      - character: 王雪
+        line: 我们本来就是同桌啊。不过...
+      - character: 李明
+        line: 不过什么？
+      - character: 王雪
+        line: 调皮地笑：不过你要请我一年的奶茶。
+      - character: 李明
+        line: 开心地：没问题！包在我身上！
+      - character: 王雪
+        line: 快走吧，要晚自习了。
+      - character: 李明
+        line: 等等，还有一件事。
+      - character: 王雪
+        line: 什么？
+      - character: 李明
+        line: 认真地看着她：谢谢你，王雪。谢谢你在我最不想说话的时候，没有放弃跟我说话。
+      - character: 王雪
+        line: 微笑：也谢谢你，在我一个人在家的时候，陪我一起做题。
+      - character: 王雪
+        line: 走吧，再不走真的要迟到了。
+      - character: 李明
+        line: 嗯，一起走。

@@ -1,0 +1,292 @@
+title: 青玉峰杂役
+type: 修仙/日常
+
+plot: 讲述了修仙门派青玉峰上一个没有灵根的杂役弟子阿九，凭借一手好厨艺在宗门里找到自己位置的故事。通过四个日常片段，展现了修仙世界中的凡人之道——不是所有人都能成仙，但每个人都能找到属于自己的修行。
+
+characters:
+  - name: 阿九
+    age: 16
+    description: 青玉峰杂役，没有灵根无法修炼，但厨艺惊人，性格开朗乐观，负责后厨伙食
+  - name: 青衡
+    age: 外表20，实际300岁
+    description: 青玉峰大师兄，剑修天才，性格清冷，唯独对阿九做的饭格外执着
+  - name: 云婆婆
+    age: 外表60，实际800岁
+    description: 后厨管事，筑基期修士，年轻时受过伤无法再进一步，负责照顾杂役弟子
+
+scenes:
+  - id: 1
+    time: 卯时
+    setting: 青玉峰后厨
+    characters: [阿九, 云婆婆]
+    description: 天还没亮，后厨已经灯火通明。阿九在灶台前忙活，云婆婆在一旁择菜。灶上炖着一锅灵米粥，香气四溢
+    dialogues:
+      - character: 云婆婆
+        line: 择着菜：阿九，今天又这么早？
+      - character: 阿九
+        line: 搅动着粥锅：婆婆，灵米粥得慢火熬一个时辰，不早起来来不及。
+      - character: 云婆婆
+        line: 笑：整个青玉峰，就你最把做饭当回事。
+      - character: 阿九
+        line: 擦擦汗：那可不，我又不能修炼，总得把能干的事干好吧。
+      - character: 云婆婆
+        line: 叹了口气：你这孩子，要是有点灵根多好。
+      - character: 阿九
+        line: 笑得很开朗：没灵根也有没灵根的好处啊。师姐师兄们修炼累了，回来能吃口热乎的，我这不也是帮他们修行嘛。
+      - character: 云婆婆
+        line: 被你逗笑：就你会说。对了，今天青衡那孩子来过没有？
+      - character: 阿九
+        line: 脸微微一红：大师兄？他怎么会来后厨。
+      - character: 云婆婆
+        line: 意味深长地看着她：我在这后厨八百年了，什么人什么心思，一眼就能看穿。
+      - character: 阿九
+        line: 低头搅粥：婆婆说什么呢。
+      - character: 云婆婆
+        line: 笑而不语。这时后厨门被推开，青衡一身白衣站在门口。
+      - character: 青衡
+        line: 面无表情：阿九。
+      - character: 阿九
+        line: 吓了一跳：大大大师兄？你怎么来了？
+      - character: 青衡
+        line: 走近，看了看灶上的粥：今天有桂花糕吗？
+      - character: 阿九
+        line: 愣了：有是有，但那是早膳才上的...
+      - character: 青衡
+        line: 点点头：我要一碟。
+      - character: 阿九
+        line: 不知所措地看向云婆婆。
+      - character: 云婆婆
+        line: 摆手：看我作甚，大师兄要吃的，你还敢不给？
+      - character: 阿九
+        line: 赶紧跑去拿：有有有，刚蒸好的。
+      - character: 青衡
+        line: 接过碟子，站着就吃起来，吃得很快但动作依旧优雅。
+      - character: 阿九
+        line: 小心翼翼地问：大师兄，好吃吗？
+      - character: 青衡
+        line: 吃完最后一块，抬头看她：嗯。明天还来。
+      - character: 阿九
+        line: 脸又红了：好、好的。
+      - character: 青衡
+        line: 转身离开，走到门口停了一下：粥熬得不错。
+      - character: 阿九
+        line: 等他走后，捂着心口：婆婆，大师兄夸我了？
+      - character: 云婆婆
+        line: 笑：三百年来，我还是第一次听他说饭好吃。
+      - character: 阿九
+        line: 开心地继续搅粥：那我明天得做点更好的！
+
+  - id: 2
+    time: 午时
+    setting: 青玉峰后厨
+    characters: [阿九, 青衡]
+    description: 午膳时间已过，阿九在收拾碗筷。青衡突然推门进来，手里提着一条怪鱼。鱼身上有淡淡的灵光流转
+    dialogues:
+      - character: 阿九
+        line: 惊讶：大师兄？这个点你怎么来了？
+      - character: 青衡
+        line: 把鱼放在案板上：给你。
+      - character: 阿九
+        line: 凑近看：这是什么鱼？好漂亮。
+      - character: 青衡
+        line: 寒潭里抓的，寒灵鱼。吃这个对修炼有好处。
+      - character: 阿九
+        line: 愣了：给我？可是我又不能修炼...
+      - character: 青衡
+        line: 沉默了一下：给你吃，不是给你修炼。
+      - character: 阿九
+        line: 更愣了：啊？
+      - character: 青衡
+        line: 别问那么多。会做吗？
+      - character: 阿九
+        line: 看着鱼：寒灵鱼...我在古籍菜谱里见过，要用姜黄草去腥，配以温性灵菇中和寒气...
+      - character: 青衡
+        line: 嘴角微微动了一下：你会做就行。
+      - character: 阿九
+        line: 大师兄，你这是专门给我抓的？
+      - character: 青衡
+        line: 转头看向窗外：路过，顺便。
+      - character: 阿九
+        line: 笑：寒潭离这儿二十里，大师兄的顺便可真远。
+      - character: 青衡
+        line: 被戳穿，耳尖微微发红：做你的鱼，话多。
+      - character: 阿九
+        line: 嘻嘻笑：好好好，我晚上就给大师兄做。
+      - character: 青衡
+        line: 不是给我做，是给你自己。
+      - character: 阿九
+        line: 啊？这么珍贵的鱼给我吃？
+      - character: 青衡
+        line: 你每天做饭给我们吃，我们修炼，你累。也该吃点好的。
+      - character: 阿九
+        line: 眼眶有点热：大师兄...
+      - character: 青衡
+        line: 转身要走：晚上我来吃。
+      - character: 阿九
+        line: 哎？不是说给我吃的吗？
+      - character: 青衡
+        point: 已经走出门，声音飘回来：一起吃。
+
+  - id: 3
+    time: 酉时
+    setting: 后厨小院
+    characters: [阿九, 青衡, 云婆婆]
+    description: 小院里摆着一张矮桌，上面是阿九用寒灵鱼做的一桌菜。青衡端坐着，云婆婆笑眯眯地坐在一旁
+    dialogues:
+      - character: 云婆婆
+        line: 啧啧啧，寒灵鱼啊，八百年来我也没吃过几回。
+      - character: 青衡
+        line: 云婆婆想吃，下次我再去抓。
+      - character: 云婆婆
+        line: 摆摆手：别别别，老太婆我吃了也是浪费。倒是阿九，第一次吃灵物吧？
+      - character: 阿九
+        line: 有点紧张：嗯...婆婆，我不会吃了爆体而亡吧？
+      - character: 云婆婆
+        line: 笑喷：你这孩子，话本看多了？寒灵鱼温和，凡人吃了强身健体，最多拉几天肚子。
+      - character: 阿九
+        line: 更紧张了：拉肚子？
+      - character: 青衡
+        line: 瞪了云婆婆一眼：婆婆吓你的。吃吧。
+      - character: 阿九
+        line: 夹了一筷子鱼肉，小心翼翼地放进嘴里，眼睛一下子亮了：好好吃！
+      - character: 青衡
+        line: 嘴角微微上扬，也夹了一筷子。
+      - character: 云婆婆
+        line: 看着两人，笑得意味深长：阿九啊，你知道寒灵鱼在咱们修仙界，一般用来做什么吗？
+      - character: 阿九
+        line: 摇头：做什么？
+      - character: 青衡
+        line: 筷子顿了顿。
+      - character: 云婆婆
+        line: 慢悠悠地说：这是求偶用的。
+      - character: 阿九
+        line: 一口鱼汤差点喷出来：啊？？？
+      - character: 青衡
+        line: 耳尖通红：婆婆！
+      - character: 云婆婆
+        line: 哈哈笑：怎么，我说错了？当年你师父追你师娘，就是去寒潭抓了一冬天的鱼。
+      - character: 阿九
+        line: 看向青衡，脸也红了：大师兄...
+      - character: 青衡
+        line: 低头吃鱼，声音闷闷的：婆婆年纪大了，记性不好。
+      - character: 云婆婆
+        line: 我记性可好着呢。阿九，这鱼他要是自己吃，就是增进修为。要是给别人吃...
+      - character: 阿九
+        line: 小声问：就是什么？
+      - character: 云婆婆
+        line: 就是想把那人养胖，好拐回家。
+      - character: 阿九
+        line: 脸更红了。
+      - character: 青衡
+        line: 放下筷子，起身：婆婆，我去练剑了。
+      - character: 云婆婆
+        line: 哎哟，三百岁的人了，还害臊？
+      - character: 青衡
+        line: 走到门口，停了一下，回头对阿九说：明天还给你抓。
+      - character: 阿九
+        line: 愣住，然后噗嗤笑了：好。
+      - character: 青衡
+        line: 快步离开。
+      - character: 云婆婆
+        line: 笑得直不起腰：阿九啊，你知不知道，这青玉峰三百年来多少人想攀附他，他连正眼都不给一个。
+      - character: 阿九
+        line: 低头笑：婆婆，我一个杂役，什么都不会...
+      - character: 云婆婆
+        line: 谁说什么都不会？你会做饭，会笑，会让他吃完了说好吃。这就够了。
+      - character: 阿九
+        line: 看着桌上剩下的鱼：婆婆，这鱼...
+      - character: 云婆婆
+        line: 吃！都吃了！明天他抓新的，你天天吃！
+      - character: 阿九
+        line: 笑着继续吃：嗯！
+
+  - id: 4
+    time: 辰时
+    setting: 青玉峰后厨
+    characters: [阿九, 青衡]
+    description: 阿九正在揉面，青衡推门进来，手里捧着一个精致的小盒子。后厨里只有他们两人
+    dialogues:
+      - character: 阿九
+        line: 手上沾着面粉：大师兄？今天怎么这个点来？
+      - character: 青衡
+        line: 走近，把小盒子放在案板上：给你。
+      - character: 阿九
+        line: 看看盒子：这是什么？
+      - character: 青衡
+        line: 打开盒子，里面是一枚晶莹剔透的玉佩，上面有淡淡的灵气流转。
+      - character: 阿九
+        line: 惊讶：好漂亮...这是什么？
+      - character: 青衡
+        line: 护体玉。戴上它，凡人也受得住修仙界的寒气。
+      - character: 阿九
+        line: 愣了：为什么给我这个？
+      - character: 青衡
+        line: 沉默了一会儿：冬天快到了。后厨冷。
+      - character: 阿九
+        line: 眼眶微红：大师兄...
+      - character: 青衡
+        line: 还有。你想去寒潭看看吗？
+      - character: 阿九
+        line: 惊讶：我可以去？
+      - character: 青衡
+        line: 嗯。戴了这个，可以去。
+      - character: 阿九
+        line: 大师兄，你为什么要对我这么好？
+      - character: 青衡
+        line: 看着她的眼睛：因为你对我好。
+      - character: 阿九
+        line: 我...我只是做饭而已。
+      - character: 青衡
+        line: 三百年来，只有你做的饭，让我想天天吃。
+      - character: 阿九
+        line: 眼泪终于掉下来：大师兄...
+      - character: 青衡
+        line: 笨拙地伸手，替她擦眼泪：别哭。
+      - character: 阿九
+        line: 哭着笑：我没哭，我是高兴。
+      - character: 青衡
+        line: 阿九，我修行三百年，一直以为修仙就是一切。
+      - character: 阿九
+        line: 嗯？
+      - character: 青衡
+        line: 直到遇见你，才知道，原来一碗热粥，比金丹更重要。
+      - character: 阿九
+        line: 低头看着玉佩：可是我没有灵根，不能陪你修仙。
+      - character: 青衡
+        line: 不需要。你在就行。
+      - character: 阿九
+        line: 抬头看他：大师兄...
+      - character: 青衡
+        line: 叫我青衡。
+      - character: 阿九
+        line: 青衡。
+      - character: 青衡
+        line: 嘴角上扬，这是他第一次在阿九面前笑得这么明显：嗯。
+      - character: 阿九
+        line: 那...青衡，你今天想吃什么？
+      - character: 青衡
+        line: 笑：你做的，都行。
+      - character: 阿九
+        line: 那我给你做桂花糕，你第一次来吃的那种。
+      - character: 青衡
+        line: 好。
+      - character: 阿九
+        line: 转身继续揉面，突然想起什么：对了，青衡。
+      - character: 青衡
+        line: 嗯？
+      - character: 阿九
+        line: 婆婆说，寒灵鱼是求偶用的，是真的吗？
+      - character: 青衡
+        line: 耳尖又红了，沉默了一会儿：是。
+      - character: 阿九
+        line: 笑了：那我吃了那么多条，是不是答应了？
+      - character: 青衡
+        line: 看着她，眼里有光：是。
+      - character: 阿九
+        line: 低头揉面，轻声说：那我答应了。
+      - character: 青衡
+        line: 站在她身后，看了很久，最后轻声说：谢谢你，阿九。
+      - character: 阿九
+        line: 谢什么？
+      - character: 青衡
+        line: 谢谢你让我知道，修仙之外，还有人间。
