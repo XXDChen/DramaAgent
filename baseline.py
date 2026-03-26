@@ -1,5 +1,3 @@
-# baseline/minimal_baseline.py
-
 import os
 import time
 from typing import Dict, Any
@@ -21,7 +19,7 @@ class Baseline:
             model=model_name,
             temperature=0.8,
             streaming=False,
-            max_tokens=4096
+            max_tokens=8192
         )
     
     def generate(self, user_input: str) -> Dict[str, Any]:
